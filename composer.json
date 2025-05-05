@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jsondb/jsondb": "dev-master"
+    }
+}

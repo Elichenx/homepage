@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "主页",
+        "name": "Elichen",
+        "keywords": "zyyo,Elichen",
+        "description": "整天半吊子和不学无术的坏孩子,梦想成为庄稼地里的读书人.....",
+        "header": null,
+        "footer": null,
+        "beian": "11",
+        "ico": "https://raw.gitmirror.com/Elichenx/bloc-image/master/img/%E5%A4%B4%E5%83%8F.jpg",
+        "logo": "https://raw.gitmirror.com/Elichenx/bloc-image/master/img/%E5%A4%B4%E5%83%8F.jpg",
+        "tag": "网瘾\r\n小学生\r\n大一\r\n网页\r\nlinux\r\n跑者\r\n前端\r\n骑行                                                                                                                                          ",
+        "time": "2024.1|敬请期待\r\n2023.8|ICP备案成功\r\n2023.3|注册域名zyyo.net\r\n2021.2|出来后洗心革面\r\n...|...\r\n2018.1|搭建第一个网站",
+        "title1": "Hello I' m ",
+        "title2": "Elichen",
+        "des": "<div class=\"description\">👦 <span class=\"purpleText\">Full Stack</span> Developer\r\n           </div>\r\n           <div class=\"description\">📝 The only way to do <span class=\"purpleText textBackground\">great</span> is\r\n               to <span class=\"purpleText textBackground\">love</span> what you do. </div>",
+        "infor": "",
+        "update_time": "2025-05-04 15:27:00",
+        "copyright": "",
+        "icp": null,
+        "skill": null,
+        "cdn": "",
+        "music": ""
+    },
+    {
+        "id": 2,
+        "user": "admin",
+        "pwd": "123456",
+        "update_time": "2024-12-03 13:35:04"
+    }
+]
